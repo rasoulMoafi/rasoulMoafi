@@ -12,9 +12,8 @@
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/peyman-web) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peyman_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rasoulMoafi)
-- 🌐 Website [https://www.peyman-web.ir](https://www.peyman-web.ir) <br>
 
-- 📫 How to reach me **peymanmotamedi.web@gmail.com**
+- 📫 How to reach me **rasoulhk*@gmail.com**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
