@@ -10,10 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasoulMoafi" alt="rasoulMoafi" /></a> </p>
 
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/peyman-web) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peyman_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rasoulMoafi)
-
-- 📫 How to reach me **rasoulhk8*@gmail.com**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,19 +37,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) <br>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rasoulMoafi&theme=tokyonight&hide_border=false)<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasoulMoafi&show_icons=true&locale=en&theme=tokyonight" alt="rasoulMoafi" /></p>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasoulMoafi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
