@@ -1,7 +1,3 @@
-<h1 align="center">Hi 😊, I'm Rasoul Moafi </h1>
-<h3 align="center">A passionate front-end developer from Tehran-Iran</h3>
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasoulMoafi&label=Profile%20views&color=00a8e8&style=flat" alt="rasoulMoafi" /> </p>
 
 # 💫 About Me:
