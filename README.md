@@ -1,10 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasoulMoafi&label=Profile%20views&color=00a8e8&style=flat" alt="rasoulMoafi" /> </p>
-
 # 💫 About Me:
 🔭 Front-End developer specializing in Vue.js and Nuxt.js.<br>👯 Open to collaboration on exciting Front-End projects.<br>🤝 Seeking help to stay updated with the latest Front-End trends.<br>🌱 I'm currently delving into advanced Vue.js techniques and improving user experiences through Nuxt.js.<br>💬 Ask me about Front-End development or web development in general!
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasoulMoafi" alt="rasoulMoafi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasoulMoafi&label=Profile%20views&color=00a8e8&style=flat" alt="rasoulMoafi" /> </p>
 
 
 # 💻 Tech Stack:
